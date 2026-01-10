@@ -3,6 +3,7 @@
 <p align="left">My name is <strong>Asif</strong>, and I'm a <strong>Computer Science student</strong> from <strong>Dhaka, Bangladesh</strong>.</p>
 
 <h2 align="left">About me</h2>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <p align="left">
 ✨ Creating projects since 2022<br>
@@ -53,3 +54,11 @@ Designed a database system to efficiently manage data for architecture firms, fo
 🔗 GitHub: <a href="https://github.com/RabiulAsif/SQL-Database-Project">https://github.com/RabiulAsif/SQL-Database-Project</a><br><br>
 
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
