@@ -65,9 +65,6 @@ Developed an animated urban city scene featuring buildings, vehicles, and natura
 Designed a database system to efficiently manage data for architecture firms, focusing on structured storage, retrieval, and data integrity.<br>
 🔗 GitHub: <a href="https://github.com/RabiulAsif/SQL-Database-Project">https://github.com/RabiulAsif/SQL-Database-Project</a><br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+
 </p>
