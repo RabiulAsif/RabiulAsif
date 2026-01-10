@@ -3,7 +3,10 @@
 <p align="left">My name is <strong>Asif</strong>, and I'm a <strong>Computer Science student</strong> from <strong>Dhaka, Bangladesh</strong>.</p>
 
 <h2 align="left">About me</h2>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+<table>
+<tr>
+<td>
 
 <p align="left">
 ✨ Creating projects since 2022<br>
@@ -11,7 +14,16 @@
 🎯 Goals: Build impactful software projects and strengthen my full-stack skills<br>
 🎲 Fun fact: I love playing <strong>eFootball</strong> in my free time ⚽
 </p>
-</br>
+
+</td>
+<td>
+
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="About Me GIF" />
+
+</td>
+</tr>
+</table>
+
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -53,12 +65,9 @@ Developed an animated urban city scene featuring buildings, vehicles, and natura
 Designed a database system to efficiently manage data for architecture firms, focusing on structured storage, retrieval, and data integrity.<br>
 🔗 GitHub: <a href="https://github.com/RabiulAsif/SQL-Database-Project">https://github.com/RabiulAsif/SQL-Database-Project</a><br><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 </p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
