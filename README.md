@@ -11,7 +11,7 @@
 🎯 Goals: Build impactful software projects and strengthen my full-stack skills<br>
 🎲 Fun fact: I love playing <strong>eFootball</strong> in my free time ⚽
 </p>
-
+</br>
 <h2 align="left">I code with</h2>
 
 <div align="left">
