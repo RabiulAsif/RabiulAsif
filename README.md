@@ -65,6 +65,6 @@ Developed an animated urban city scene featuring buildings, vehicles, and natura
 Designed a database system to efficiently manage data for architecture firms, focusing on structured storage, retrieval, and data integrity.<br>
 🔗 GitHub: <a href="https://github.com/RabiulAsif/SQL-Database-Project">https://github.com/RabiulAsif/SQL-Database-Project</a><br><br>
 
-<img src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif" alt="Pacman GIF" height="250" width="1250" />
+<img src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif" alt="Pacman GIF" height="180" width="1000" />
 
 </p>
