@@ -53,6 +53,11 @@
 Developed a web-based planner application using <strong>HTML, CSS, and PHP</strong> with a <strong>MySQL database</strong> to organize and schedule tasks efficiently through a simple and user-friendly interface.<br>
 🔗 GitHub: <a href="https://github.com/RabiulAsif/summer-wbt-2025/tree/main/ePlanner">https://github.com/RabiulAsif/summer-wbt-2025/tree/main/ePlanner</a><br><br>
 
+💻 <strong>Library Management System</strong> – <em>Three-Tier Application</em><br>
+Developed using <strong>ASP.Net</strong> with a <strong>SQL Server database</strong>.<br>
+🔗 GitHub: <a href="https://github.com/RabiulAsif/ADVANCED-PROGRAMMING-WITH-.NET-/tree/main/LibraryManagementSystem">https://github.com/RabiulAsif/ADVANCED-PROGRAMMING-WITH-.NET-/tree/main/LibraryManagementSystem
+</a><br><br>
+
 💻 <strong>IT CARE GUARDIANS</strong> – <em>C# Desktop Application</em><br>
 A service management platform developed using <strong>C#</strong> to simplify technical service operations. Features include an admin panel, secure payment handling, and support for multiple user roles.<br>
 🔗 GitHub: <a href="https://github.com/RabiulAsif/C_SHARP_PPROJECT">https://github.com/RabiulAsif/C_SHARP_PPROJECT</a><br><br>
